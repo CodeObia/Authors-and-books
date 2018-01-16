@@ -97,7 +97,7 @@ table.ajax.reload(null , false);
 		<div class ="container">
 			<div class ="row">
 				<div class = "table-responsive">
-<table id = "table1">
+<table id = "table1" class= "table-striped table-hover">
 					<thead>
 					<tr class = "title">
 							<th> ID</th>
